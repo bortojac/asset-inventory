@@ -1,0 +1,1812 @@
+{
+    "name": "Company4",
+    "prices": [
+        {
+            "bonds": 51.89053766989021, 
+            "stocks": 166.1613817740609, 
+            "options": 295.3808896511277, 
+            "Day": 1.0
+        }, 
+        {
+            "bonds": 73.82868025511964, 
+            "stocks": 163.80878337387668, 
+            "options": 310.77952928797833, 
+            "Day": 2.0
+        }, 
+        {
+            "bonds": 73.61334072178715, 
+            "stocks": 130.38595349141517, 
+            "options": 291.8511231460512, 
+            "Day": 3.0
+        }, 
+        {
+            "bonds": 70.85280751560974, 
+            "stocks": 166.06207106708504, 
+            "options": 271.3828193225323, 
+            "Day": 4.0
+        }, 
+        {
+            "bonds": 63.01284756647037, 
+            "stocks": 165.98090660480642, 
+            "options": 274.02385352527784, 
+            "Day": 5.0
+        }, 
+        {
+            "bonds": 69.21923088602726, 
+            "stocks": 136.7009492508302, 
+            "options": 269.11585590475585, 
+            "Day": 6.0
+        }, 
+        {
+            "bonds": 9.611112093463639, 
+            "stocks": 155.91919616206135, 
+            "options": 312.8497872938132, 
+            "Day": 7.0
+        }, 
+        {
+            "bonds": 24.589935023487136, 
+            "stocks": 177.7048054043722, 
+            "options": 340.87608641966574, 
+            "Day": 8.0
+        }, 
+        {
+            "bonds": 41.366699616765274, 
+            "stocks": 177.15981907659327, 
+            "options": 277.85347825708607, 
+            "Day": 9.0
+        }, 
+        {
+            "bonds": 22.874819961703142, 
+            "stocks": 160.68662539294738, 
+            "options": 281.2788733906488, 
+            "Day": 10.0
+        }, 
+        {
+            "bonds": 20.67220902162142, 
+            "stocks": 107.12590893571968, 
+            "options": 321.7573035051311, 
+            "Day": 11.0
+        }, 
+        {
+            "bonds": 38.44726668114055, 
+            "stocks": 149.77716970649328, 
+            "options": 258.72369922602786, 
+            "Day": 12.0
+        }, 
+        {
+            "bonds": 108.26071962667953, 
+            "stocks": 139.13612775443158, 
+            "options": 279.99435390838744, 
+            "Day": 13.0
+        }, 
+        {
+            "bonds": 6.7345279751357765, 
+            "stocks": 147.23148847396072, 
+            "options": 292.47387397732496, 
+            "Day": 14.0
+        }, 
+        {
+            "bonds": 60.23795740177442, 
+            "stocks": 120.23373871682034, 
+            "options": 287.5100787822995, 
+            "Day": 15.0
+        }, 
+        {
+            "bonds": 70.22853204903492, 
+            "stocks": 129.68813763723483, 
+            "options": 330.1109464713941, 
+            "Day": 16.0
+        }, 
+        {
+            "bonds": 34.64262189294076, 
+            "stocks": 114.39508779257038, 
+            "options": 304.065084992038, 
+            "Day": 17.0
+        }, 
+        {
+            "bonds": 55.83564683446295, 
+            "stocks": 177.97350505967808, 
+            "options": 280.74141640446015, 
+            "Day": 18.0
+        }, 
+        {
+            "bonds": 43.70371393320453, 
+            "stocks": 157.71683716472393, 
+            "options": 305.6021124719225, 
+            "Day": 19.0
+        }, 
+        {
+            "bonds": 48.362565360239245, 
+            "stocks": 158.23290839305398, 
+            "options": 288.61204764652405, 
+            "Day": 20.0
+        }, 
+        {
+            "bonds": 40.34593283586632, 
+            "stocks": 171.46245343818237, 
+            "options": 347.87846846582715, 
+            "Day": 21.0
+        }, 
+        {
+            "bonds": 83.74313262732042, 
+            "stocks": 120.5133079432914, 
+            "options": 319.52004237555894, 
+            "Day": 22.0
+        }, 
+        {
+            "bonds": 41.2350041853645, 
+            "stocks": 134.2226811618958, 
+            "options": 328.7811031288045, 
+            "Day": 23.0
+        }, 
+        {
+            "bonds": 44.86833323680392, 
+            "stocks": 190.87401396246926, 
+            "options": 301.82392151029165, 
+            "Day": 24.0
+        }, 
+        {
+            "bonds": 45.272409049763915, 
+            "stocks": 171.4068509541194, 
+            "options": 342.4386004709641, 
+            "Day": 25.0
+        }, 
+        {
+            "bonds": 61.313097212150275, 
+            "stocks": 183.27872458815395, 
+            "options": 319.1658681325095, 
+            "Day": 26.0
+        }, 
+        {
+            "bonds": 40.386333482820554, 
+            "stocks": 145.8371111314369, 
+            "options": 317.4803159699981, 
+            "Day": 27.0
+        }, 
+        {
+            "bonds": 75.74701132743684, 
+            "stocks": 140.58127812513175, 
+            "options": 295.892550927395, 
+            "Day": 28.0
+        }, 
+        {
+            "bonds": 73.81003177990763, 
+            "stocks": 147.91520217898247, 
+            "options": 274.2607906179657, 
+            "Day": 29.0
+        }, 
+        {
+            "bonds": 71.27570327695356, 
+            "stocks": 146.27288132285744, 
+            "options": 251.8673219793213, 
+            "Day": 30.0
+        }
+    ], 
+    "trades": [
+        {
+            "party2": 1, 
+            "amount": -23, 
+            "product": "bonds", 
+            "day": 1
+        }, 
+        {
+            "party2": 2, 
+            "amount": -1, 
+            "product": "bonds", 
+            "day": 1
+        }, 
+        {
+            "party2": 3, 
+            "amount": 16, 
+            "product": "bonds", 
+            "day": 1
+        }, 
+        {
+            "party2": 1, 
+            "amount": 46, 
+            "product": "stocks", 
+            "day": 1
+        }, 
+        {
+            "party2": 2, 
+            "amount": 0, 
+            "product": "stocks", 
+            "day": 1
+        }, 
+        {
+            "party2": 3, 
+            "amount": -18, 
+            "product": "stocks", 
+            "day": 1
+        }, 
+        {
+            "party2": 1, 
+            "amount": -10, 
+            "product": "options", 
+            "day": 1
+        }, 
+        {
+            "party2": 2, 
+            "amount": 48, 
+            "product": "options", 
+            "day": 1
+        }, 
+        {
+            "party2": 3, 
+            "amount": -2, 
+            "product": "options", 
+            "day": 1
+        }, 
+        {
+            "party2": 1, 
+            "amount": 19, 
+            "product": "bonds", 
+            "day": 2
+        }, 
+        {
+            "party2": 2, 
+            "amount": 34, 
+            "product": "bonds", 
+            "day": 2
+        }, 
+        {
+            "party2": 3, 
+            "amount": 2, 
+            "product": "bonds", 
+            "day": 2
+        }, 
+        {
+            "party2": 1, 
+            "amount": -50, 
+            "product": "stocks", 
+            "day": 2
+        }, 
+        {
+            "party2": 2, 
+            "amount": -13, 
+            "product": "stocks", 
+            "day": 2
+        }, 
+        {
+            "party2": 3, 
+            "amount": -42, 
+            "product": "stocks", 
+            "day": 2
+        }, 
+        {
+            "party2": 1, 
+            "amount": 18, 
+            "product": "options", 
+            "day": 2
+        }, 
+        {
+            "party2": 2, 
+            "amount": 46, 
+            "product": "options", 
+            "day": 2
+        }, 
+        {
+            "party2": 3, 
+            "amount": -36, 
+            "product": "options", 
+            "day": 2
+        }, 
+        {
+            "party2": 1, 
+            "amount": -8, 
+            "product": "bonds", 
+            "day": 3
+        }, 
+        {
+            "party2": 2, 
+            "amount": 13, 
+            "product": "bonds", 
+            "day": 3
+        }, 
+        {
+            "party2": 3, 
+            "amount": -46, 
+            "product": "bonds", 
+            "day": 3
+        }, 
+        {
+            "party2": 1, 
+            "amount": -11, 
+            "product": "stocks", 
+            "day": 3
+        }, 
+        {
+            "party2": 2, 
+            "amount": -16, 
+            "product": "stocks", 
+            "day": 3
+        }, 
+        {
+            "party2": 3, 
+            "amount": -23, 
+            "product": "stocks", 
+            "day": 3
+        }, 
+        {
+            "party2": 1, 
+            "amount": 6, 
+            "product": "options", 
+            "day": 3
+        }, 
+        {
+            "party2": 2, 
+            "amount": 14, 
+            "product": "options", 
+            "day": 3
+        }, 
+        {
+            "party2": 3, 
+            "amount": -32, 
+            "product": "options", 
+            "day": 3
+        }, 
+        {
+            "party2": 1, 
+            "amount": -20, 
+            "product": "bonds", 
+            "day": 4
+        }, 
+        {
+            "party2": 2, 
+            "amount": 47, 
+            "product": "bonds", 
+            "day": 4
+        }, 
+        {
+            "party2": 3, 
+            "amount": -8, 
+            "product": "bonds", 
+            "day": 4
+        }, 
+        {
+            "party2": 1, 
+            "amount": 49, 
+            "product": "stocks", 
+            "day": 4
+        }, 
+        {
+            "party2": 2, 
+            "amount": -4, 
+            "product": "stocks", 
+            "day": 4
+        }, 
+        {
+            "party2": 3, 
+            "amount": 33, 
+            "product": "stocks", 
+            "day": 4
+        }, 
+        {
+            "party2": 1, 
+            "amount": -31, 
+            "product": "options", 
+            "day": 4
+        }, 
+        {
+            "party2": 2, 
+            "amount": -49, 
+            "product": "options", 
+            "day": 4
+        }, 
+        {
+            "party2": 3, 
+            "amount": -29, 
+            "product": "options", 
+            "day": 4
+        }, 
+        {
+            "party2": 1, 
+            "amount": -24, 
+            "product": "bonds", 
+            "day": 5
+        }, 
+        {
+            "party2": 2, 
+            "amount": -28, 
+            "product": "bonds", 
+            "day": 5
+        }, 
+        {
+            "party2": 3, 
+            "amount": -49, 
+            "product": "bonds", 
+            "day": 5
+        }, 
+        {
+            "party2": 1, 
+            "amount": 4, 
+            "product": "stocks", 
+            "day": 5
+        }, 
+        {
+            "party2": 2, 
+            "amount": 15, 
+            "product": "stocks", 
+            "day": 5
+        }, 
+        {
+            "party2": 3, 
+            "amount": 35, 
+            "product": "stocks", 
+            "day": 5
+        }, 
+        {
+            "party2": 1, 
+            "amount": 30, 
+            "product": "options", 
+            "day": 5
+        }, 
+        {
+            "party2": 2, 
+            "amount": 50, 
+            "product": "options", 
+            "day": 5
+        }, 
+        {
+            "party2": 3, 
+            "amount": 18, 
+            "product": "options", 
+            "day": 5
+        }, 
+        {
+            "party2": 1, 
+            "amount": -43, 
+            "product": "bonds", 
+            "day": 6
+        }, 
+        {
+            "party2": 2, 
+            "amount": -1, 
+            "product": "bonds", 
+            "day": 6
+        }, 
+        {
+            "party2": 3, 
+            "amount": -47, 
+            "product": "bonds", 
+            "day": 6
+        }, 
+        {
+            "party2": 1, 
+            "amount": -5, 
+            "product": "stocks", 
+            "day": 6
+        }, 
+        {
+            "party2": 2, 
+            "amount": 41, 
+            "product": "stocks", 
+            "day": 6
+        }, 
+        {
+            "party2": 3, 
+            "amount": 21, 
+            "product": "stocks", 
+            "day": 6
+        }, 
+        {
+            "party2": 1, 
+            "amount": 9, 
+            "product": "options", 
+            "day": 6
+        }, 
+        {
+            "party2": 2, 
+            "amount": -43, 
+            "product": "options", 
+            "day": 6
+        }, 
+        {
+            "party2": 3, 
+            "amount": -14, 
+            "product": "options", 
+            "day": 6
+        }, 
+        {
+            "party2": 1, 
+            "amount": -46, 
+            "product": "bonds", 
+            "day": 7
+        }, 
+        {
+            "party2": 2, 
+            "amount": -7, 
+            "product": "bonds", 
+            "day": 7
+        }, 
+        {
+            "party2": 3, 
+            "amount": 25, 
+            "product": "bonds", 
+            "day": 7
+        }, 
+        {
+            "party2": 1, 
+            "amount": 43, 
+            "product": "stocks", 
+            "day": 7
+        }, 
+        {
+            "party2": 2, 
+            "amount": -18, 
+            "product": "stocks", 
+            "day": 7
+        }, 
+        {
+            "party2": 3, 
+            "amount": -40, 
+            "product": "stocks", 
+            "day": 7
+        }, 
+        {
+            "party2": 1, 
+            "amount": 2, 
+            "product": "options", 
+            "day": 7
+        }, 
+        {
+            "party2": 2, 
+            "amount": -27, 
+            "product": "options", 
+            "day": 7
+        }, 
+        {
+            "party2": 3, 
+            "amount": 24, 
+            "product": "options", 
+            "day": 7
+        }, 
+        {
+            "party2": 1, 
+            "amount": 42, 
+            "product": "bonds", 
+            "day": 8
+        }, 
+        {
+            "party2": 2, 
+            "amount": 46, 
+            "product": "bonds", 
+            "day": 8
+        }, 
+        {
+            "party2": 3, 
+            "amount": -50, 
+            "product": "bonds", 
+            "day": 8
+        }, 
+        {
+            "party2": 1, 
+            "amount": 15, 
+            "product": "stocks", 
+            "day": 8
+        }, 
+        {
+            "party2": 2, 
+            "amount": 45, 
+            "product": "stocks", 
+            "day": 8
+        }, 
+        {
+            "party2": 3, 
+            "amount": -36, 
+            "product": "stocks", 
+            "day": 8
+        }, 
+        {
+            "party2": 1, 
+            "amount": -24, 
+            "product": "options", 
+            "day": 8
+        }, 
+        {
+            "party2": 2, 
+            "amount": -11, 
+            "product": "options", 
+            "day": 8
+        }, 
+        {
+            "party2": 3, 
+            "amount": 35, 
+            "product": "options", 
+            "day": 8
+        }, 
+        {
+            "party2": 1, 
+            "amount": -37, 
+            "product": "bonds", 
+            "day": 9
+        }, 
+        {
+            "party2": 2, 
+            "amount": 31, 
+            "product": "bonds", 
+            "day": 9
+        }, 
+        {
+            "party2": 3, 
+            "amount": 14, 
+            "product": "bonds", 
+            "day": 9
+        }, 
+        {
+            "party2": 1, 
+            "amount": 10, 
+            "product": "stocks", 
+            "day": 9
+        }, 
+        {
+            "party2": 2, 
+            "amount": 33, 
+            "product": "stocks", 
+            "day": 9
+        }, 
+        {
+            "party2": 3, 
+            "amount": -16, 
+            "product": "stocks", 
+            "day": 9
+        }, 
+        {
+            "party2": 1, 
+            "amount": 48, 
+            "product": "options", 
+            "day": 9
+        }, 
+        {
+            "party2": 2, 
+            "amount": 5, 
+            "product": "options", 
+            "day": 9
+        }, 
+        {
+            "party2": 3, 
+            "amount": -39, 
+            "product": "options", 
+            "day": 9
+        }, 
+        {
+            "party2": 1, 
+            "amount": -30, 
+            "product": "bonds", 
+            "day": 10
+        }, 
+        {
+            "party2": 2, 
+            "amount": 26, 
+            "product": "bonds", 
+            "day": 10
+        }, 
+        {
+            "party2": 3, 
+            "amount": 20, 
+            "product": "bonds", 
+            "day": 10
+        }, 
+        {
+            "party2": 1, 
+            "amount": 38, 
+            "product": "stocks", 
+            "day": 10
+        }, 
+        {
+            "party2": 2, 
+            "amount": 4, 
+            "product": "stocks", 
+            "day": 10
+        }, 
+        {
+            "party2": 3, 
+            "amount": -41, 
+            "product": "stocks", 
+            "day": 10
+        }, 
+        {
+            "party2": 1, 
+            "amount": 22, 
+            "product": "options", 
+            "day": 10
+        }, 
+        {
+            "party2": 2, 
+            "amount": -10, 
+            "product": "options", 
+            "day": 10
+        }, 
+        {
+            "party2": 3, 
+            "amount": -38, 
+            "product": "options", 
+            "day": 10
+        }, 
+        {
+            "party2": 1, 
+            "amount": -18, 
+            "product": "bonds", 
+            "day": 11
+        }, 
+        {
+            "party2": 2, 
+            "amount": 10, 
+            "product": "bonds", 
+            "day": 11
+        }, 
+        {
+            "party2": 3, 
+            "amount": 12, 
+            "product": "bonds", 
+            "day": 11
+        }, 
+        {
+            "party2": 1, 
+            "amount": 9, 
+            "product": "stocks", 
+            "day": 11
+        }, 
+        {
+            "party2": 2, 
+            "amount": -29, 
+            "product": "stocks", 
+            "day": 11
+        }, 
+        {
+            "party2": 3, 
+            "amount": 30, 
+            "product": "stocks", 
+            "day": 11
+        }, 
+        {
+            "party2": 1, 
+            "amount": -15, 
+            "product": "options", 
+            "day": 11
+        }, 
+        {
+            "party2": 2, 
+            "amount": -26, 
+            "product": "options", 
+            "day": 11
+        }, 
+        {
+            "party2": 3, 
+            "amount": -33, 
+            "product": "options", 
+            "day": 11
+        }, 
+        {
+            "party2": 1, 
+            "amount": 41, 
+            "product": "bonds", 
+            "day": 12
+        }, 
+        {
+            "party2": 2, 
+            "amount": 24, 
+            "product": "bonds", 
+            "day": 12
+        }, 
+        {
+            "party2": 3, 
+            "amount": -36, 
+            "product": "bonds", 
+            "day": 12
+        }, 
+        {
+            "party2": 1, 
+            "amount": -42, 
+            "product": "stocks", 
+            "day": 12
+        }, 
+        {
+            "party2": 2, 
+            "amount": 8, 
+            "product": "stocks", 
+            "day": 12
+        }, 
+        {
+            "party2": 3, 
+            "amount": 36, 
+            "product": "stocks", 
+            "day": 12
+        }, 
+        {
+            "party2": 1, 
+            "amount": 48, 
+            "product": "options", 
+            "day": 12
+        }, 
+        {
+            "party2": 2, 
+            "amount": 42, 
+            "product": "options", 
+            "day": 12
+        }, 
+        {
+            "party2": 3, 
+            "amount": 13, 
+            "product": "options", 
+            "day": 12
+        }, 
+        {
+            "party2": 1, 
+            "amount": 39, 
+            "product": "bonds", 
+            "day": 13
+        }, 
+        {
+            "party2": 2, 
+            "amount": 27, 
+            "product": "bonds", 
+            "day": 13
+        }, 
+        {
+            "party2": 3, 
+            "amount": 14, 
+            "product": "bonds", 
+            "day": 13
+        }, 
+        {
+            "party2": 1, 
+            "amount": 27, 
+            "product": "stocks", 
+            "day": 13
+        }, 
+        {
+            "party2": 2, 
+            "amount": -6, 
+            "product": "stocks", 
+            "day": 13
+        }, 
+        {
+            "party2": 3, 
+            "amount": -17, 
+            "product": "stocks", 
+            "day": 13
+        }, 
+        {
+            "party2": 1, 
+            "amount": -20, 
+            "product": "options", 
+            "day": 13
+        }, 
+        {
+            "party2": 2, 
+            "amount": -44, 
+            "product": "options", 
+            "day": 13
+        }, 
+        {
+            "party2": 3, 
+            "amount": -28, 
+            "product": "options", 
+            "day": 13
+        }, 
+        {
+            "party2": 1, 
+            "amount": 21, 
+            "product": "bonds", 
+            "day": 14
+        }, 
+        {
+            "party2": 2, 
+            "amount": 45, 
+            "product": "bonds", 
+            "day": 14
+        }, 
+        {
+            "party2": 3, 
+            "amount": 15, 
+            "product": "bonds", 
+            "day": 14
+        }, 
+        {
+            "party2": 1, 
+            "amount": -20, 
+            "product": "stocks", 
+            "day": 14
+        }, 
+        {
+            "party2": 2, 
+            "amount": -45, 
+            "product": "stocks", 
+            "day": 14
+        }, 
+        {
+            "party2": 3, 
+            "amount": -6, 
+            "product": "stocks", 
+            "day": 14
+        }, 
+        {
+            "party2": 1, 
+            "amount": 28, 
+            "product": "options", 
+            "day": 14
+        }, 
+        {
+            "party2": 2, 
+            "amount": -29, 
+            "product": "options", 
+            "day": 14
+        }, 
+        {
+            "party2": 3, 
+            "amount": -34, 
+            "product": "options", 
+            "day": 14
+        }, 
+        {
+            "party2": 1, 
+            "amount": -33, 
+            "product": "bonds", 
+            "day": 15
+        }, 
+        {
+            "party2": 2, 
+            "amount": 24, 
+            "product": "bonds", 
+            "day": 15
+        }, 
+        {
+            "party2": 3, 
+            "amount": -2, 
+            "product": "bonds", 
+            "day": 15
+        }, 
+        {
+            "party2": 1, 
+            "amount": -3, 
+            "product": "stocks", 
+            "day": 15
+        }, 
+        {
+            "party2": 2, 
+            "amount": 50, 
+            "product": "stocks", 
+            "day": 15
+        }, 
+        {
+            "party2": 3, 
+            "amount": -30, 
+            "product": "stocks", 
+            "day": 15
+        }, 
+        {
+            "party2": 1, 
+            "amount": -50, 
+            "product": "options", 
+            "day": 15
+        }, 
+        {
+            "party2": 2, 
+            "amount": 2, 
+            "product": "options", 
+            "day": 15
+        }, 
+        {
+            "party2": 3, 
+            "amount": -20, 
+            "product": "options", 
+            "day": 15
+        }, 
+        {
+            "party2": 1, 
+            "amount": 5, 
+            "product": "bonds", 
+            "day": 16
+        }, 
+        {
+            "party2": 2, 
+            "amount": 38, 
+            "product": "bonds", 
+            "day": 16
+        }, 
+        {
+            "party2": 3, 
+            "amount": 3, 
+            "product": "bonds", 
+            "day": 16
+        }, 
+        {
+            "party2": 1, 
+            "amount": 41, 
+            "product": "stocks", 
+            "day": 16
+        }, 
+        {
+            "party2": 2, 
+            "amount": 36, 
+            "product": "stocks", 
+            "day": 16
+        }, 
+        {
+            "party2": 3, 
+            "amount": -32, 
+            "product": "stocks", 
+            "day": 16
+        }, 
+        {
+            "party2": 1, 
+            "amount": -47, 
+            "product": "options", 
+            "day": 16
+        }, 
+        {
+            "party2": 2, 
+            "amount": 25, 
+            "product": "options", 
+            "day": 16
+        }, 
+        {
+            "party2": 3, 
+            "amount": 16, 
+            "product": "options", 
+            "day": 16
+        }, 
+        {
+            "party2": 1, 
+            "amount": 27, 
+            "product": "bonds", 
+            "day": 17
+        }, 
+        {
+            "party2": 2, 
+            "amount": -38, 
+            "product": "bonds", 
+            "day": 17
+        }, 
+        {
+            "party2": 3, 
+            "amount": -2, 
+            "product": "bonds", 
+            "day": 17
+        }, 
+        {
+            "party2": 1, 
+            "amount": 40, 
+            "product": "stocks", 
+            "day": 17
+        }, 
+        {
+            "party2": 2, 
+            "amount": -36, 
+            "product": "stocks", 
+            "day": 17
+        }, 
+        {
+            "party2": 3, 
+            "amount": 11, 
+            "product": "stocks", 
+            "day": 17
+        }, 
+        {
+            "party2": 1, 
+            "amount": 48, 
+            "product": "options", 
+            "day": 17
+        }, 
+        {
+            "party2": 2, 
+            "amount": 50, 
+            "product": "options", 
+            "day": 17
+        }, 
+        {
+            "party2": 3, 
+            "amount": -44, 
+            "product": "options", 
+            "day": 17
+        }, 
+        {
+            "party2": 1, 
+            "amount": -27, 
+            "product": "bonds", 
+            "day": 18
+        }, 
+        {
+            "party2": 2, 
+            "amount": 33, 
+            "product": "bonds", 
+            "day": 18
+        }, 
+        {
+            "party2": 3, 
+            "amount": 9, 
+            "product": "bonds", 
+            "day": 18
+        }, 
+        {
+            "party2": 1, 
+            "amount": 47, 
+            "product": "stocks", 
+            "day": 18
+        }, 
+        {
+            "party2": 2, 
+            "amount": 18, 
+            "product": "stocks", 
+            "day": 18
+        }, 
+        {
+            "party2": 3, 
+            "amount": 37, 
+            "product": "stocks", 
+            "day": 18
+        }, 
+        {
+            "party2": 1, 
+            "amount": 20, 
+            "product": "options", 
+            "day": 18
+        }, 
+        {
+            "party2": 2, 
+            "amount": 20, 
+            "product": "options", 
+            "day": 18
+        }, 
+        {
+            "party2": 3, 
+            "amount": -4, 
+            "product": "options", 
+            "day": 18
+        }, 
+        {
+            "party2": 1, 
+            "amount": -34, 
+            "product": "bonds", 
+            "day": 19
+        }, 
+        {
+            "party2": 2, 
+            "amount": 5, 
+            "product": "bonds", 
+            "day": 19
+        }, 
+        {
+            "party2": 3, 
+            "amount": -26, 
+            "product": "bonds", 
+            "day": 19
+        }, 
+        {
+            "party2": 1, 
+            "amount": 27, 
+            "product": "stocks", 
+            "day": 19
+        }, 
+        {
+            "party2": 2, 
+            "amount": -50, 
+            "product": "stocks", 
+            "day": 19
+        }, 
+        {
+            "party2": 3, 
+            "amount": 48, 
+            "product": "stocks", 
+            "day": 19
+        }, 
+        {
+            "party2": 1, 
+            "amount": 23, 
+            "product": "options", 
+            "day": 19
+        }, 
+        {
+            "party2": 2, 
+            "amount": 13, 
+            "product": "options", 
+            "day": 19
+        }, 
+        {
+            "party2": 3, 
+            "amount": 18, 
+            "product": "options", 
+            "day": 19
+        }, 
+        {
+            "party2": 1, 
+            "amount": 18, 
+            "product": "bonds", 
+            "day": 20
+        }, 
+        {
+            "party2": 2, 
+            "amount": 12, 
+            "product": "bonds", 
+            "day": 20
+        }, 
+        {
+            "party2": 3, 
+            "amount": -8, 
+            "product": "bonds", 
+            "day": 20
+        }, 
+        {
+            "party2": 1, 
+            "amount": -36, 
+            "product": "stocks", 
+            "day": 20
+        }, 
+        {
+            "party2": 2, 
+            "amount": -6, 
+            "product": "stocks", 
+            "day": 20
+        }, 
+        {
+            "party2": 3, 
+            "amount": 3, 
+            "product": "stocks", 
+            "day": 20
+        }, 
+        {
+            "party2": 1, 
+            "amount": -42, 
+            "product": "options", 
+            "day": 20
+        }, 
+        {
+            "party2": 2, 
+            "amount": -35, 
+            "product": "options", 
+            "day": 20
+        }, 
+        {
+            "party2": 3, 
+            "amount": 25, 
+            "product": "options", 
+            "day": 20
+        }, 
+        {
+            "party2": 1, 
+            "amount": 2, 
+            "product": "bonds", 
+            "day": 21
+        }, 
+        {
+            "party2": 2, 
+            "amount": 11, 
+            "product": "bonds", 
+            "day": 21
+        }, 
+        {
+            "party2": 3, 
+            "amount": -3, 
+            "product": "bonds", 
+            "day": 21
+        }, 
+        {
+            "party2": 1, 
+            "amount": -31, 
+            "product": "stocks", 
+            "day": 21
+        }, 
+        {
+            "party2": 2, 
+            "amount": 33, 
+            "product": "stocks", 
+            "day": 21
+        }, 
+        {
+            "party2": 3, 
+            "amount": 7, 
+            "product": "stocks", 
+            "day": 21
+        }, 
+        {
+            "party2": 1, 
+            "amount": -37, 
+            "product": "options", 
+            "day": 21
+        }, 
+        {
+            "party2": 2, 
+            "amount": 28, 
+            "product": "options", 
+            "day": 21
+        }, 
+        {
+            "party2": 3, 
+            "amount": 40, 
+            "product": "options", 
+            "day": 21
+        }, 
+        {
+            "party2": 1, 
+            "amount": -1, 
+            "product": "bonds", 
+            "day": 22
+        }, 
+        {
+            "party2": 2, 
+            "amount": -5, 
+            "product": "bonds", 
+            "day": 22
+        }, 
+        {
+            "party2": 3, 
+            "amount": 28, 
+            "product": "bonds", 
+            "day": 22
+        }, 
+        {
+            "party2": 1, 
+            "amount": 31, 
+            "product": "stocks", 
+            "day": 22
+        }, 
+        {
+            "party2": 2, 
+            "amount": 40, 
+            "product": "stocks", 
+            "day": 22
+        }, 
+        {
+            "party2": 3, 
+            "amount": 23, 
+            "product": "stocks", 
+            "day": 22
+        }, 
+        {
+            "party2": 1, 
+            "amount": -32, 
+            "product": "options", 
+            "day": 22
+        }, 
+        {
+            "party2": 2, 
+            "amount": -47, 
+            "product": "options", 
+            "day": 22
+        }, 
+        {
+            "party2": 3, 
+            "amount": 12, 
+            "product": "options", 
+            "day": 22
+        }, 
+        {
+            "party2": 1, 
+            "amount": 40, 
+            "product": "bonds", 
+            "day": 23
+        }, 
+        {
+            "party2": 2, 
+            "amount": -50, 
+            "product": "bonds", 
+            "day": 23
+        }, 
+        {
+            "party2": 3, 
+            "amount": 19, 
+            "product": "bonds", 
+            "day": 23
+        }, 
+        {
+            "party2": 1, 
+            "amount": -47, 
+            "product": "stocks", 
+            "day": 23
+        }, 
+        {
+            "party2": 2, 
+            "amount": 12, 
+            "product": "stocks", 
+            "day": 23
+        }, 
+        {
+            "party2": 3, 
+            "amount": 28, 
+            "product": "stocks", 
+            "day": 23
+        }, 
+        {
+            "party2": 1, 
+            "amount": -18, 
+            "product": "options", 
+            "day": 23
+        }, 
+        {
+            "party2": 2, 
+            "amount": 30, 
+            "product": "options", 
+            "day": 23
+        }, 
+        {
+            "party2": 3, 
+            "amount": 11, 
+            "product": "options", 
+            "day": 23
+        }, 
+        {
+            "party2": 1, 
+            "amount": -12, 
+            "product": "bonds", 
+            "day": 24
+        }, 
+        {
+            "party2": 2, 
+            "amount": 17, 
+            "product": "bonds", 
+            "day": 24
+        }, 
+        {
+            "party2": 3, 
+            "amount": -2, 
+            "product": "bonds", 
+            "day": 24
+        }, 
+        {
+            "party2": 1, 
+            "amount": -20, 
+            "product": "stocks", 
+            "day": 24
+        }, 
+        {
+            "party2": 2, 
+            "amount": 35, 
+            "product": "stocks", 
+            "day": 24
+        }, 
+        {
+            "party2": 3, 
+            "amount": 15, 
+            "product": "stocks", 
+            "day": 24
+        }, 
+        {
+            "party2": 1, 
+            "amount": 41, 
+            "product": "options", 
+            "day": 24
+        }, 
+        {
+            "party2": 2, 
+            "amount": 23, 
+            "product": "options", 
+            "day": 24
+        }, 
+        {
+            "party2": 3, 
+            "amount": -42, 
+            "product": "options", 
+            "day": 24
+        }, 
+        {
+            "party2": 1, 
+            "amount": 40, 
+            "product": "bonds", 
+            "day": 25
+        }, 
+        {
+            "party2": 2, 
+            "amount": -44, 
+            "product": "bonds", 
+            "day": 25
+        }, 
+        {
+            "party2": 3, 
+            "amount": -5, 
+            "product": "bonds", 
+            "day": 25
+        }, 
+        {
+            "party2": 1, 
+            "amount": -49, 
+            "product": "stocks", 
+            "day": 25
+        }, 
+        {
+            "party2": 2, 
+            "amount": -46, 
+            "product": "stocks", 
+            "day": 25
+        }, 
+        {
+            "party2": 3, 
+            "amount": -19, 
+            "product": "stocks", 
+            "day": 25
+        }, 
+        {
+            "party2": 1, 
+            "amount": 44, 
+            "product": "options", 
+            "day": 25
+        }, 
+        {
+            "party2": 2, 
+            "amount": -3, 
+            "product": "options", 
+            "day": 25
+        }, 
+        {
+            "party2": 3, 
+            "amount": 31, 
+            "product": "options", 
+            "day": 25
+        }, 
+        {
+            "party2": 1, 
+            "amount": 26, 
+            "product": "bonds", 
+            "day": 26
+        }, 
+        {
+            "party2": 2, 
+            "amount": 2, 
+            "product": "bonds", 
+            "day": 26
+        }, 
+        {
+            "party2": 3, 
+            "amount": 1, 
+            "product": "bonds", 
+            "day": 26
+        }, 
+        {
+            "party2": 1, 
+            "amount": -35, 
+            "product": "stocks", 
+            "day": 26
+        }, 
+        {
+            "party2": 2, 
+            "amount": -36, 
+            "product": "stocks", 
+            "day": 26
+        }, 
+        {
+            "party2": 3, 
+            "amount": 3, 
+            "product": "stocks", 
+            "day": 26
+        }, 
+        {
+            "party2": 1, 
+            "amount": -40, 
+            "product": "options", 
+            "day": 26
+        }, 
+        {
+            "party2": 2, 
+            "amount": 47, 
+            "product": "options", 
+            "day": 26
+        }, 
+        {
+            "party2": 3, 
+            "amount": 41, 
+            "product": "options", 
+            "day": 26
+        }, 
+        {
+            "party2": 1, 
+            "amount": 19, 
+            "product": "bonds", 
+            "day": 27
+        }, 
+        {
+            "party2": 2, 
+            "amount": 42, 
+            "product": "bonds", 
+            "day": 27
+        }, 
+        {
+            "party2": 3, 
+            "amount": 11, 
+            "product": "bonds", 
+            "day": 27
+        }, 
+        {
+            "party2": 1, 
+            "amount": 14, 
+            "product": "stocks", 
+            "day": 27
+        }, 
+        {
+            "party2": 2, 
+            "amount": -13, 
+            "product": "stocks", 
+            "day": 27
+        }, 
+        {
+            "party2": 3, 
+            "amount": 28, 
+            "product": "stocks", 
+            "day": 27
+        }, 
+        {
+            "party2": 1, 
+            "amount": -10, 
+            "product": "options", 
+            "day": 27
+        }, 
+        {
+            "party2": 2, 
+            "amount": -48, 
+            "product": "options", 
+            "day": 27
+        }, 
+        {
+            "party2": 3, 
+            "amount": 44, 
+            "product": "options", 
+            "day": 27
+        }, 
+        {
+            "party2": 1, 
+            "amount": 29, 
+            "product": "bonds", 
+            "day": 28
+        }, 
+        {
+            "party2": 2, 
+            "amount": -44, 
+            "product": "bonds", 
+            "day": 28
+        }, 
+        {
+            "party2": 3, 
+            "amount": -49, 
+            "product": "bonds", 
+            "day": 28
+        }, 
+        {
+            "party2": 1, 
+            "amount": 44, 
+            "product": "stocks", 
+            "day": 28
+        }, 
+        {
+            "party2": 2, 
+            "amount": -38, 
+            "product": "stocks", 
+            "day": 28
+        }, 
+        {
+            "party2": 3, 
+            "amount": -18, 
+            "product": "stocks", 
+            "day": 28
+        }, 
+        {
+            "party2": 1, 
+            "amount": 19, 
+            "product": "options", 
+            "day": 28
+        }, 
+        {
+            "party2": 2, 
+            "amount": 6, 
+            "product": "options", 
+            "day": 28
+        }, 
+        {
+            "party2": 3, 
+            "amount": 24, 
+            "product": "options", 
+            "day": 28
+        }, 
+        {
+            "party2": 1, 
+            "amount": 10, 
+            "product": "bonds", 
+            "day": 29
+        }, 
+        {
+            "party2": 2, 
+            "amount": 44, 
+            "product": "bonds", 
+            "day": 29
+        }, 
+        {
+            "party2": 3, 
+            "amount": 18, 
+            "product": "bonds", 
+            "day": 29
+        }, 
+        {
+            "party2": 1, 
+            "amount": 28, 
+            "product": "stocks", 
+            "day": 29
+        }, 
+        {
+            "party2": 2, 
+            "amount": 21, 
+            "product": "stocks", 
+            "day": 29
+        }, 
+        {
+            "party2": 3, 
+            "amount": 19, 
+            "product": "stocks", 
+            "day": 29
+        }, 
+        {
+            "party2": 1, 
+            "amount": -47, 
+            "product": "options", 
+            "day": 29
+        }, 
+        {
+            "party2": 2, 
+            "amount": 20, 
+            "product": "options", 
+            "day": 29
+        }, 
+        {
+            "party2": 3, 
+            "amount": -20, 
+            "product": "options", 
+            "day": 29
+        }, 
+        {
+            "party2": 1, 
+            "amount": -45, 
+            "product": "bonds", 
+            "day": 30
+        }, 
+        {
+            "party2": 2, 
+            "amount": -14, 
+            "product": "bonds", 
+            "day": 30
+        }, 
+        {
+            "party2": 3, 
+            "amount": -22, 
+            "product": "bonds", 
+            "day": 30
+        }, 
+        {
+            "party2": 1, 
+            "amount": -15, 
+            "product": "stocks", 
+            "day": 30
+        }, 
+        {
+            "party2": 2, 
+            "amount": 40, 
+            "product": "stocks", 
+            "day": 30
+        }, 
+        {
+            "party2": 3, 
+            "amount": 15, 
+            "product": "stocks", 
+            "day": 30
+        }, 
+        {
+            "party2": 1, 
+            "amount": 1, 
+            "product": "options", 
+            "day": 30
+        }, 
+        {
+            "party2": 2, 
+            "amount": 47, 
+            "product": "options", 
+            "day": 30
+        }, 
+        {
+            "party2": 3, 
+            "amount": -9, 
+            "product": "options", 
+            "day": 30
+        }
+    ], 
+    "inventory": {
+        "bonds": 100, 
+        "stocks": 50, 
+        "options": 90
+    }
+}

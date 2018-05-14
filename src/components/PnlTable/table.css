@@ -1,0 +1,16 @@
+.rt-td {
+  text-align: center;
+}
+
+.rt-th {
+  background-color: #fff;
+  color: #000;
+}
+
+.rt-resizable-header {
+  background-color: blue;
+  color: #fff
+}
+.ReactTable {
+  width: 100%;
+}

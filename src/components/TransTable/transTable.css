@@ -1,0 +1,16 @@
+.rt-td-ex {
+  text-align: center;
+}
+
+.rt-th-ex {
+  background-color: #fff;
+  color: #000;
+}
+
+.rt-resizable-header-ex {
+  background-color: blue;
+  color: #fff
+}
+.ReactTable-ex {
+  width: 100%;
+}

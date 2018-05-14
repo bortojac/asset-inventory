@@ -1,0 +1,27 @@
+.app {
+  height: 100%;
+  width: 100%;
+}
+
+.app__main {
+  display: flex;
+  flex-flow: column;
+  height: calc(100% - 4rem);
+  align-items: center;
+}
+
+.header {
+  background-color: #fff;
+  display: flex;
+  height: 4rem;
+  align-items: center;
+  border-bottom: solid .2rem #000;
+}
+
+.header__h1 {
+  margin-right: auto;
+  margin-left: .5rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+}

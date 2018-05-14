@@ -1,0 +1,5 @@
+day,asset,sod,transactions,eod
+1,bonds,30,-35,-5
+1,options,40,-48,-8
+29,stocks,56,-71,-15
+30,stocks,-15,12,-3

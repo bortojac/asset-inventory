@@ -1,0 +1,394 @@
+<AssetTransationsData>
+  <AssetTransactions>
+    <Transaction amount="-13" counterparty="Company3" day="1" type="1"/>
+    <Transaction amount="-6" counterparty="Company2" day="1" type="1"/>
+    <Transaction amount="-16" counterparty="Company4" day="1" type="1"/>
+    <Transaction amount="-24" counterparty="Company3" day="1" type="3"/>
+    <Transaction amount="11" counterparty="Company2" day="1" type="3"/>
+    <Transaction amount="18" counterparty="Company4" day="1" type="3"/>
+    <Transaction amount="-34" counterparty="Company3" day="1" type="2"/>
+    <Transaction amount="-16" counterparty="Company2" day="1" type="2"/>
+    <Transaction amount="2" counterparty="Company4" day="1" type="2"/>
+    <Transaction amount="36" counterparty="Company3" day="2" type="1"/>
+    <Transaction amount="35" counterparty="Company2" day="2" type="1"/>
+    <Transaction amount="-2" counterparty="Company4" day="2" type="1"/>
+    <Transaction amount="-10" counterparty="Company3" day="2" type="3"/>
+    <Transaction amount="8" counterparty="Company2" day="2" type="3"/>
+    <Transaction amount="42" counterparty="Company4" day="2" type="3"/>
+    <Transaction amount="43" counterparty="Company3" day="2" type="2"/>
+    <Transaction amount="-36" counterparty="Company2" day="2" type="2"/>
+    <Transaction amount="36" counterparty="Company4" day="2" type="2"/>
+    <Transaction amount="-27" counterparty="Company3" day="3" type="1"/>
+    <Transaction amount="49" counterparty="Company2" day="3" type="1"/>
+    <Transaction amount="46" counterparty="Company4" day="3" type="1"/>
+    <Transaction amount="-46" counterparty="Company3" day="3" type="3"/>
+    <Transaction amount="-1" counterparty="Company2" day="3" type="3"/>
+    <Transaction amount="23" counterparty="Company4" day="3" type="3"/>
+    <Transaction amount="4" counterparty="Company3" day="3" type="2"/>
+    <Transaction amount="1" counterparty="Company2" day="3" type="2"/>
+    <Transaction amount="32" counterparty="Company4" day="3" type="2"/>
+    <Transaction amount="-45" counterparty="Company3" day="4" type="1"/>
+    <Transaction amount="-40" counterparty="Company2" day="4" type="1"/>
+    <Transaction amount="8" counterparty="Company4" day="4" type="1"/>
+    <Transaction amount="-31" counterparty="Company3" day="4" type="3"/>
+    <Transaction amount="31" counterparty="Company2" day="4" type="3"/>
+    <Transaction amount="-33" counterparty="Company4" day="4" type="3"/>
+    <Transaction amount="-4" counterparty="Company3" day="4" type="2"/>
+    <Transaction amount="43" counterparty="Company2" day="4" type="2"/>
+    <Transaction amount="29" counterparty="Company4" day="4" type="2"/>
+    <Transaction amount="48" counterparty="Company3" day="5" type="1"/>
+    <Transaction amount="27" counterparty="Company2" day="5" type="1"/>
+    <Transaction amount="49" counterparty="Company4" day="5" type="1"/>
+    <Transaction amount="20" counterparty="Company3" day="5" type="3"/>
+    <Transaction amount="36" counterparty="Company2" day="5" type="3"/>
+    <Transaction amount="-35" counterparty="Company4" day="5" type="3"/>
+    <Transaction amount="-31" counterparty="Company3" day="5" type="2"/>
+    <Transaction amount="-46" counterparty="Company2" day="5" type="2"/>
+    <Transaction amount="-18" counterparty="Company4" day="5" type="2"/>
+    <Transaction amount="-6" counterparty="Company3" day="6" type="1"/>
+    <Transaction amount="30" counterparty="Company2" day="6" type="1"/>
+    <Transaction amount="47" counterparty="Company4" day="6" type="1"/>
+    <Transaction amount="8" counterparty="Company3" day="6" type="3"/>
+    <Transaction amount="-6" counterparty="Company2" day="6" type="3"/>
+    <Transaction amount="-21" counterparty="Company4" day="6" type="3"/>
+    <Transaction amount="22" counterparty="Company3" day="6" type="2"/>
+    <Transaction amount="18" counterparty="Company2" day="6" type="2"/>
+    <Transaction amount="14" counterparty="Company4" day="6" type="2"/>
+    <Transaction amount="-48" counterparty="Company3" day="7" type="1"/>
+    <Transaction amount="-18" counterparty="Company2" day="7" type="1"/>
+    <Transaction amount="-25" counterparty="Company4" day="7" type="1"/>
+    <Transaction amount="2" counterparty="Company3" day="7" type="3"/>
+    <Transaction amount="-24" counterparty="Company2" day="7" type="3"/>
+    <Transaction amount="40" counterparty="Company4" day="7" type="3"/>
+    <Transaction amount="46" counterparty="Company3" day="7" type="2"/>
+    <Transaction amount="7" counterparty="Company2" day="7" type="2"/>
+    <Transaction amount="-24" counterparty="Company4" day="7" type="2"/>
+    <Transaction amount="9" counterparty="Company3" day="8" type="1"/>
+    <Transaction amount="-13" counterparty="Company2" day="8" type="1"/>
+    <Transaction amount="50" counterparty="Company4" day="8" type="1"/>
+    <Transaction amount="12" counterparty="Company3" day="8" type="3"/>
+    <Transaction amount="-5" counterparty="Company2" day="8" type="3"/>
+    <Transaction amount="36" counterparty="Company4" day="8" type="3"/>
+    <Transaction amount="-45" counterparty="Company3" day="8" type="2"/>
+    <Transaction amount="-47" counterparty="Company2" day="8" type="2"/>
+    <Transaction amount="-35" counterparty="Company4" day="8" type="2"/>
+    <Transaction amount="-14" counterparty="Company3" day="9" type="1"/>
+    <Transaction amount="-31" counterparty="Company2" day="9" type="1"/>
+    <Transaction amount="-14" counterparty="Company4" day="9" type="1"/>
+    <Transaction amount="-40" counterparty="Company3" day="9" type="3"/>
+    <Transaction amount="-23" counterparty="Company2" day="9" type="3"/>
+    <Transaction amount="16" counterparty="Company4" day="9" type="3"/>
+    <Transaction amount="44" counterparty="Company3" day="9" type="2"/>
+    <Transaction amount="39" counterparty="Company2" day="9" type="2"/>
+    <Transaction amount="39" counterparty="Company4" day="9" type="2"/>
+    <Transaction amount="-7" counterparty="Company3" day="10" type="1"/>
+    <Transaction amount="39" counterparty="Company2" day="10" type="1"/>
+    <Transaction amount="-20" counterparty="Company4" day="10" type="1"/>
+    <Transaction amount="-10" counterparty="Company3" day="10" type="3"/>
+    <Transaction amount="-4" counterparty="Company2" day="10" type="3"/>
+    <Transaction amount="41" counterparty="Company4" day="10" type="3"/>
+    <Transaction amount="34" counterparty="Company3" day="10" type="2"/>
+    <Transaction amount="-22" counterparty="Company2" day="10" type="2"/>
+    <Transaction amount="38" counterparty="Company4" day="10" type="2"/>
+    <Transaction amount="2" counterparty="Company3" day="11" type="1"/>
+    <Transaction amount="-39" counterparty="Company2" day="11" type="1"/>
+    <Transaction amount="-12" counterparty="Company4" day="11" type="1"/>
+    <Transaction amount="-40" counterparty="Company3" day="11" type="3"/>
+    <Transaction amount="-47" counterparty="Company2" day="11" type="3"/>
+    <Transaction amount="-30" counterparty="Company4" day="11" type="3"/>
+    <Transaction amount="-19" counterparty="Company3" day="11" type="2"/>
+    <Transaction amount="18" counterparty="Company2" day="11" type="2"/>
+    <Transaction amount="33" counterparty="Company4" day="11" type="2"/>
+    <Transaction amount="38" counterparty="Company3" day="12" type="1"/>
+    <Transaction amount="-47" counterparty="Company2" day="12" type="1"/>
+    <Transaction amount="36" counterparty="Company4" day="12" type="1"/>
+    <Transaction amount="16" counterparty="Company3" day="12" type="3"/>
+    <Transaction amount="-46" counterparty="Company2" day="12" type="3"/>
+    <Transaction amount="-36" counterparty="Company4" day="12" type="3"/>
+    <Transaction amount="-8" counterparty="Company3" day="12" type="2"/>
+    <Transaction amount="44" counterparty="Company2" day="12" type="2"/>
+    <Transaction amount="-13" counterparty="Company4" day="12" type="2"/>
+    <Transaction amount="-12" counterparty="Company3" day="13" type="1"/>
+    <Transaction amount="7" counterparty="Company2" day="13" type="1"/>
+    <Transaction amount="-14" counterparty="Company4" day="13" type="1"/>
+    <Transaction amount="-8" counterparty="Company3" day="13" type="3"/>
+    <Transaction amount="-9" counterparty="Company2" day="13" type="3"/>
+    <Transaction amount="17" counterparty="Company4" day="13" type="3"/>
+    <Transaction amount="5" counterparty="Company3" day="13" type="2"/>
+    <Transaction amount="-39" counterparty="Company2" day="13" type="2"/>
+    <Transaction amount="28" counterparty="Company4" day="13" type="2"/>
+    <Transaction amount="29" counterparty="Company3" day="14" type="1"/>
+    <Transaction amount="-10" counterparty="Company2" day="14" type="1"/>
+    <Transaction amount="-15" counterparty="Company4" day="14" type="1"/>
+    <Transaction amount="-35" counterparty="Company3" day="14" type="3"/>
+    <Transaction amount="9" counterparty="Company2" day="14" type="3"/>
+    <Transaction amount="6" counterparty="Company4" day="14" type="3"/>
+    <Transaction amount="-12" counterparty="Company3" day="14" type="2"/>
+    <Transaction amount="15" counterparty="Company2" day="14" type="2"/>
+    <Transaction amount="34" counterparty="Company4" day="14" type="2"/>
+    <Transaction amount="43" counterparty="Company3" day="15" type="1"/>
+    <Transaction amount="-13" counterparty="Company2" day="15" type="1"/>
+    <Transaction amount="2" counterparty="Company4" day="15" type="1"/>
+    <Transaction amount="49" counterparty="Company3" day="15" type="3"/>
+    <Transaction amount="-26" counterparty="Company2" day="15" type="3"/>
+    <Transaction amount="30" counterparty="Company4" day="15" type="3"/>
+    <Transaction amount="11" counterparty="Company3" day="15" type="2"/>
+    <Transaction amount="45" counterparty="Company2" day="15" type="2"/>
+    <Transaction amount="20" counterparty="Company4" day="15" type="2"/>
+    <Transaction amount="27" counterparty="Company3" day="16" type="1"/>
+    <Transaction amount="-32" counterparty="Company2" day="16" type="1"/>
+    <Transaction amount="-3" counterparty="Company4" day="16" type="1"/>
+    <Transaction amount="0" counterparty="Company3" day="16" type="3"/>
+    <Transaction amount="42" counterparty="Company2" day="16" type="3"/>
+    <Transaction amount="32" counterparty="Company4" day="16" type="3"/>
+    <Transaction amount="11" counterparty="Company3" day="16" type="2"/>
+    <Transaction amount="6" counterparty="Company2" day="16" type="2"/>
+    <Transaction amount="-16" counterparty="Company4" day="16" type="2"/>
+    <Transaction amount="-23" counterparty="Company3" day="17" type="1"/>
+    <Transaction amount="-5" counterparty="Company2" day="17" type="1"/>
+    <Transaction amount="2" counterparty="Company4" day="17" type="1"/>
+    <Transaction amount="-14" counterparty="Company3" day="17" type="3"/>
+    <Transaction amount="14" counterparty="Company2" day="17" type="3"/>
+    <Transaction amount="-11" counterparty="Company4" day="17" type="3"/>
+    <Transaction amount="-13" counterparty="Company3" day="17" type="2"/>
+    <Transaction amount="-45" counterparty="Company2" day="17" type="2"/>
+    <Transaction amount="44" counterparty="Company4" day="17" type="2"/>
+    <Transaction amount="-27" counterparty="Company3" day="18" type="1"/>
+    <Transaction amount="44" counterparty="Company2" day="18" type="1"/>
+    <Transaction amount="-9" counterparty="Company4" day="18" type="1"/>
+    <Transaction amount="4" counterparty="Company3" day="18" type="3"/>
+    <Transaction amount="-5" counterparty="Company2" day="18" type="3"/>
+    <Transaction amount="-37" counterparty="Company4" day="18" type="3"/>
+    <Transaction amount="32" counterparty="Company3" day="18" type="2"/>
+    <Transaction amount="26" counterparty="Company2" day="18" type="2"/>
+    <Transaction amount="4" counterparty="Company4" day="18" type="2"/>
+    <Transaction amount="11" counterparty="Company3" day="19" type="1"/>
+    <Transaction amount="-27" counterparty="Company2" day="19" type="1"/>
+    <Transaction amount="26" counterparty="Company4" day="19" type="1"/>
+    <Transaction amount="41" counterparty="Company3" day="19" type="3"/>
+    <Transaction amount="37" counterparty="Company2" day="19" type="3"/>
+    <Transaction amount="-48" counterparty="Company4" day="19" type="3"/>
+    <Transaction amount="47" counterparty="Company3" day="19" type="2"/>
+    <Transaction amount="6" counterparty="Company2" day="19" type="2"/>
+    <Transaction amount="-18" counterparty="Company4" day="19" type="2"/>
+    <Transaction amount="3" counterparty="Company3" day="20" type="1"/>
+    <Transaction amount="8" counterparty="Company2" day="20" type="1"/>
+    <Transaction amount="8" counterparty="Company4" day="20" type="1"/>
+    <Transaction amount="30" counterparty="Company3" day="20" type="3"/>
+    <Transaction amount="13" counterparty="Company2" day="20" type="3"/>
+    <Transaction amount="-3" counterparty="Company4" day="20" type="3"/>
+    <Transaction amount="45" counterparty="Company3" day="20" type="2"/>
+    <Transaction amount="-14" counterparty="Company2" day="20" type="2"/>
+    <Transaction amount="-25" counterparty="Company4" day="20" type="2"/>
+    <Transaction amount="-3" counterparty="Company3" day="21" type="1"/>
+    <Transaction amount="-15" counterparty="Company2" day="21" type="1"/>
+    <Transaction amount="3" counterparty="Company4" day="21" type="1"/>
+    <Transaction amount="-48" counterparty="Company3" day="21" type="3"/>
+    <Transaction amount="15" counterparty="Company2" day="21" type="3"/>
+    <Transaction amount="-7" counterparty="Company4" day="21" type="3"/>
+    <Transaction amount="7" counterparty="Company3" day="21" type="2"/>
+    <Transaction amount="-43" counterparty="Company2" day="21" type="2"/>
+    <Transaction amount="-40" counterparty="Company4" day="21" type="2"/>
+    <Transaction amount="13" counterparty="Company3" day="22" type="1"/>
+    <Transaction amount="9" counterparty="Company2" day="22" type="1"/>
+    <Transaction amount="-28" counterparty="Company4" day="22" type="1"/>
+    <Transaction amount="14" counterparty="Company3" day="22" type="3"/>
+    <Transaction amount="0" counterparty="Company2" day="22" type="3"/>
+    <Transaction amount="-23" counterparty="Company4" day="22" type="3"/>
+    <Transaction amount="31" counterparty="Company3" day="22" type="2"/>
+    <Transaction amount="-43" counterparty="Company2" day="22" type="2"/>
+    <Transaction amount="-12" counterparty="Company4" day="22" type="2"/>
+    <Transaction amount="49" counterparty="Company3" day="23" type="1"/>
+    <Transaction amount="41" counterparty="Company2" day="23" type="1"/>
+    <Transaction amount="-19" counterparty="Company4" day="23" type="1"/>
+    <Transaction amount="-4" counterparty="Company3" day="23" type="3"/>
+    <Transaction amount="-28" counterparty="Company2" day="23" type="3"/>
+    <Transaction amount="-28" counterparty="Company4" day="23" type="3"/>
+    <Transaction amount="21" counterparty="Company3" day="23" type="2"/>
+    <Transaction amount="39" counterparty="Company2" day="23" type="2"/>
+    <Transaction amount="-11" counterparty="Company4" day="23" type="2"/>
+    <Transaction amount="8" counterparty="Company3" day="24" type="1"/>
+    <Transaction amount="38" counterparty="Company2" day="24" type="1"/>
+    <Transaction amount="2" counterparty="Company4" day="24" type="1"/>
+    <Transaction amount="-13" counterparty="Company3" day="24" type="3"/>
+    <Transaction amount="-12" counterparty="Company2" day="24" type="3"/>
+    <Transaction amount="-15" counterparty="Company4" day="24" type="3"/>
+    <Transaction amount="14" counterparty="Company3" day="24" type="2"/>
+    <Transaction amount="-20" counterparty="Company2" day="24" type="2"/>
+    <Transaction amount="42" counterparty="Company4" day="24" type="2"/>
+    <Transaction amount="14" counterparty="Company3" day="25" type="1"/>
+    <Transaction amount="22" counterparty="Company2" day="25" type="1"/>
+    <Transaction amount="5" counterparty="Company4" day="25" type="1"/>
+    <Transaction amount="-3" counterparty="Company3" day="25" type="3"/>
+    <Transaction amount="-19" counterparty="Company2" day="25" type="3"/>
+    <Transaction amount="19" counterparty="Company4" day="25" type="3"/>
+    <Transaction amount="31" counterparty="Company3" day="25" type="2"/>
+    <Transaction amount="-1" counterparty="Company2" day="25" type="2"/>
+    <Transaction amount="-31" counterparty="Company4" day="25" type="2"/>
+    <Transaction amount="-13" counterparty="Company3" day="26" type="1"/>
+    <Transaction amount="-28" counterparty="Company2" day="26" type="1"/>
+    <Transaction amount="-1" counterparty="Company4" day="26" type="1"/>
+    <Transaction amount="47" counterparty="Company3" day="26" type="3"/>
+    <Transaction amount="-3" counterparty="Company2" day="26" type="3"/>
+    <Transaction amount="-3" counterparty="Company4" day="26" type="3"/>
+    <Transaction amount="49" counterparty="Company3" day="26" type="2"/>
+    <Transaction amount="-39" counterparty="Company2" day="26" type="2"/>
+    <Transaction amount="-41" counterparty="Company4" day="26" type="2"/>
+    <Transaction amount="5" counterparty="Company3" day="27" type="1"/>
+    <Transaction amount="-43" counterparty="Company2" day="27" type="1"/>
+    <Transaction amount="-11" counterparty="Company4" day="27" type="1"/>
+    <Transaction amount="-1" counterparty="Company3" day="27" type="3"/>
+    <Transaction amount="-49" counterparty="Company2" day="27" type="3"/>
+    <Transaction amount="-28" counterparty="Company4" day="27" type="3"/>
+    <Transaction amount="34" counterparty="Company3" day="27" type="2"/>
+    <Transaction amount="19" counterparty="Company2" day="27" type="2"/>
+    <Transaction amount="-44" counterparty="Company4" day="27" type="2"/>
+    <Transaction amount="-1" counterparty="Company3" day="28" type="1"/>
+    <Transaction amount="32" counterparty="Company2" day="28" type="1"/>
+    <Transaction amount="49" counterparty="Company4" day="28" type="1"/>
+    <Transaction amount="-41" counterparty="Company3" day="28" type="3"/>
+    <Transaction amount="-23" counterparty="Company2" day="28" type="3"/>
+    <Transaction amount="18" counterparty="Company4" day="28" type="3"/>
+    <Transaction amount="-50" counterparty="Company3" day="28" type="2"/>
+    <Transaction amount="-13" counterparty="Company2" day="28" type="2"/>
+    <Transaction amount="-24" counterparty="Company4" day="28" type="2"/>
+    <Transaction amount="26" counterparty="Company3" day="29" type="1"/>
+    <Transaction amount="2" counterparty="Company2" day="29" type="1"/>
+    <Transaction amount="-18" counterparty="Company4" day="29" type="1"/>
+    <Transaction amount="-29" counterparty="Company3" day="29" type="3"/>
+    <Transaction amount="-23" counterparty="Company2" day="29" type="3"/>
+    <Transaction amount="-19" counterparty="Company4" day="29" type="3"/>
+    <Transaction amount="3" counterparty="Company3" day="29" type="2"/>
+    <Transaction amount="0" counterparty="Company2" day="29" type="2"/>
+    <Transaction amount="20" counterparty="Company4" day="29" type="2"/>
+    <Transaction amount="44" counterparty="Company3" day="30" type="1"/>
+    <Transaction amount="-31" counterparty="Company2" day="30" type="1"/>
+    <Transaction amount="22" counterparty="Company4" day="30" type="1"/>
+    <Transaction amount="26" counterparty="Company3" day="30" type="3"/>
+    <Transaction amount="1" counterparty="Company2" day="30" type="3"/>
+    <Transaction amount="-15" counterparty="Company4" day="30" type="3"/>
+    <Transaction amount="42" counterparty="Company3" day="30" type="2"/>
+    <Transaction amount="-26" counterparty="Company2" day="30" type="2"/>
+    <Transaction amount="9" counterparty="Company4" day="30" type="2"/>
+  </AssetTransactions>
+  <AssetTypes>
+    <Type start_level="30">
+      <Name>bonds</Name>
+      <TypeNum>1</TypeNum>
+    </Type>
+    <Type start_level="40">
+      <Name>options</Name>
+      <TypeNum>2</TypeNum>
+    </Type>
+    <Type start_level="315">
+      <Name>stocks</Name>
+      <TypeNum>3</TypeNum>
+    </Type>
+  </AssetTypes>
+  <CompanyNamesMap>
+    <CodeMap>
+      <Name>Company2</Name>
+      <Ticker>Company2</Ticker>
+    </CodeMap>
+    <CodeMap>
+      <Name>Company4</Name>
+      <Ticker>Company4</Ticker>
+    </CodeMap>
+    <CodeMap>
+      <Name>Company3</Name>
+      <Ticker>Company3</Ticker>
+    </CodeMap>
+  </CompanyNamesMap>
+  <Prices>
+    <Price day="1" price="44" type="bond"/>
+    <Price day="1" price="313" type="option"/>
+    <Price day="1" price="110" type="stock"/>
+    <Price day="2" price="65" type="bond"/>
+    <Price day="2" price="268" type="option"/>
+    <Price day="2" price="156" type="stock"/>
+    <Price day="3" price="53" type="bond"/>
+    <Price day="3" price="361" type="option"/>
+    <Price day="3" price="118" type="stock"/>
+    <Price day="4" price="45" type="bond"/>
+    <Price day="4" price="388" type="option"/>
+    <Price day="4" price="133" type="stock"/>
+    <Price day="5" price="38" type="bond"/>
+    <Price day="5" price="227" type="option"/>
+    <Price day="5" price="181" type="stock"/>
+    <Price day="6" price="56" type="bond"/>
+    <Price day="6" price="270" type="option"/>
+    <Price day="6" price="128" type="stock"/>
+    <Price day="7" price="37" type="bond"/>
+    <Price day="7" price="329" type="option"/>
+    <Price day="7" price="160" type="stock"/>
+    <Price day="8" price="46" type="bond"/>
+    <Price day="8" price="356" type="option"/>
+    <Price day="8" price="158" type="stock"/>
+    <Price day="9" price="63" type="bond"/>
+    <Price day="9" price="339" type="option"/>
+    <Price day="9" price="113" type="stock"/>
+    <Price day="10" price="41" type="bond"/>
+    <Price day="10" price="234" type="option"/>
+    <Price day="10" price="108" type="stock"/>
+    <Price day="11" price="46" type="bond"/>
+    <Price day="11" price="332" type="option"/>
+    <Price day="11" price="135" type="stock"/>
+    <Price day="12" price="36" type="bond"/>
+    <Price day="12" price="292" type="option"/>
+    <Price day="12" price="124" type="stock"/>
+    <Price day="13" price="41" type="bond"/>
+    <Price day="13" price="324" type="option"/>
+    <Price day="13" price="154" type="stock"/>
+    <Price day="14" price="49" type="bond"/>
+    <Price day="14" price="358" type="option"/>
+    <Price day="14" price="122" type="stock"/>
+    <Price day="15" price="57" type="bond"/>
+    <Price day="15" price="260" type="option"/>
+    <Price day="15" price="188" type="stock"/>
+    <Price day="16" price="58" type="bond"/>
+    <Price day="16" price="226" type="option"/>
+    <Price day="16" price="166" type="stock"/>
+    <Price day="17" price="35" type="bond"/>
+    <Price day="17" price="217" type="option"/>
+    <Price day="17" price="114" type="stock"/>
+    <Price day="18" price="43" type="bond"/>
+    <Price day="18" price="337" type="option"/>
+    <Price day="18" price="129" type="stock"/>
+    <Price day="19" price="47" type="bond"/>
+    <Price day="19" price="224" type="option"/>
+    <Price day="19" price="137" type="stock"/>
+    <Price day="20" price="37" type="bond"/>
+    <Price day="20" price="246" type="option"/>
+    <Price day="20" price="136" type="stock"/>
+    <Price day="21" price="40" type="bond"/>
+    <Price day="21" price="247" type="option"/>
+    <Price day="21" price="190" type="stock"/>
+    <Price day="22" price="36" type="bond"/>
+    <Price day="22" price="282" type="option"/>
+    <Price day="22" price="158" type="stock"/>
+    <Price day="23" price="50" type="bond"/>
+    <Price day="23" price="390" type="option"/>
+    <Price day="23" price="177" type="stock"/>
+    <Price day="24" price="57" type="bond"/>
+    <Price day="24" price="326" type="option"/>
+    <Price day="24" price="152" type="stock"/>
+    <Price day="25" price="56" type="bond"/>
+    <Price day="25" price="241" type="option"/>
+    <Price day="25" price="115" type="stock"/>
+    <Price day="26" price="47" type="bond"/>
+    <Price day="26" price="236" type="option"/>
+    <Price day="26" price="112" type="stock"/>
+    <Price day="27" price="35" type="bond"/>
+    <Price day="27" price="295" type="option"/>
+    <Price day="27" price="107" type="stock"/>
+    <Price day="28" price="54" type="bond"/>
+    <Price day="28" price="311" type="option"/>
+    <Price day="28" price="168" type="stock"/>
+    <Price day="29" price="62" type="bond"/>
+    <Price day="29" price="381" type="option"/>
+    <Price day="29" price="136" type="stock"/>
+    <Price day="30" price="43" type="bond"/>
+    <Price day="30" price="333" type="option"/>
+    <Price day="30" price="116" type="stock"/>
+  </Prices>
+</AssetTransationsData>
