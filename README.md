@@ -14,7 +14,7 @@ source activate asset-inventory
 npm start
 ```
 
-Then just open http://localhost:3000 in your browser. The reports for the two companieds will be created in the Reports directory upon running the Flask server file (index.py)
+Then just open http://localhost:3000 in your browser. The reports for the two companies will be created in the Reports directory upon running the Flask server file (index.py)
 
 
 ## Built With the following libraries
